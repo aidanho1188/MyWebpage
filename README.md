@@ -6,11 +6,11 @@
 ## Homework
 
 # Algorithms in Programming
-[Week 1](project2/tree/master/src/edu/ho/java/wk1/hw)
-[Week 2](project2/tree/master/src/edu/ho/java/wk2/hw)
-[Week 3]()
-[Week 4]()
-[Week 5]()
-[Week 6]()
-[Week 7]()
-[Week 8]()
+- [Week 1](aidanho1188/project2/tree/master/src/edu/ho/java/wk1/hw)
+- [Week 2](aidanho1188/project2/tree/master/src/edu/ho/java/wk2/hw)
+- [Week 3]()
+- [Week 4]()
+- [Week 5]()
+- [Week 6]()
+- [Week 7]()
+- [Week 8]()

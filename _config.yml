@@ -4,16 +4,16 @@ title: Computer Science
 #tabs
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: 
   - title: "Posts"
-    url: /year-archive/
+    url:
   - title: "Categories"
-    url: /categories/
+    url: 
   - title: "Tags"
-    url: /tags/
+    url: 
   - title: "Pages"
-    url: /page-archive/
+    url: 
   - title: "Collections"
-    url: /collection-archive/
+    url: 
   - title: "External Link"
-    url: https://google.com
+    url: 

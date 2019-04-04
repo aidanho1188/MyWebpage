@@ -6,3 +6,7 @@ navbar-links:
   About Me: "aboutme"
   Resources: ""
   Author's home: "http://deanattali.com"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

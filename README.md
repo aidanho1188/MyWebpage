@@ -2,7 +2,13 @@
 [My webpage](https://aidanho1188.github.io/MyWebpage/)
 
 ## Tools
-
+- [Array]()
+- [ArrayList]()
+- [Read File]()
+- [Interfaces]()
+- []()
+- []()
+- []()
 ## Homework
 
 ### Algorithms in Programming

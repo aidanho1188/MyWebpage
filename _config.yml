@@ -1,12 +1,14 @@
 theme: jekyll-theme-cayman
 title: Computer Science
 
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources: ""
-  Author's home: "http://deanattali.com"
+docs_list_title: ACME Documentation
+docs:
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html

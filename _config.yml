@@ -2,4 +2,3 @@ theme: jekyll-theme-cayman
 title: Computer Science
 plugins:
  	- jekyll-seo-tag
-show_downloads: true

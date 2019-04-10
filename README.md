@@ -2,10 +2,10 @@
 [My webpage](https://aidanho1188.github.io/MyWebpage/)
 
 ## Tools
-- [Array]()
-- [ArrayList]()
-- [Read File]()
-- [Interfaces]()
+- [Create a Array]()
+- [Create a ArrayList]()
+- [Create Read File method]()
+- [Create Interfaces]()
 - []()
 - []()
 - []()

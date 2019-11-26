@@ -1,2 +1,8 @@
 title: Computer Science
-background: https://github.com/aidanho1188/MyWebpage/blob/master/20180610_201135.jpg
+background : https://github.com/aidanho1188/MyWebpage/blob/master/20180610_201135.jpg
+background-size : 50% 100%
+background-position : left center
+background-color : "#D4C711"
+
+# Right adjust text on slide.
+layout : center-right

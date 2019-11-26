@@ -7,3 +7,6 @@ background-color : "#D4C711"
 
 # Right adjust text on slide.
 layout : center-right
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

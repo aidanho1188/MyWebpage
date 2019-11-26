@@ -1,12 +1,2 @@
 title: Computer Science
-page-img: "20180610_201135.jpg"
-background : url("../20180610_201135.jpg")
-background-size : 50% 100%
-background-position : left center
-background-color : "#D4C711"
-
-# Right adjust text on slide.
-layout : center-right
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+background : 20180610_201135.jpg
